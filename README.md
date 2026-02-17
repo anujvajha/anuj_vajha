@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 •⁠  ⁠🌱 Currently learning *Full Stack Development and building projects (React, Node.js, Express, MongoDB)*   
-•⁠  ⁠💼 Open for *Full Stack internships*  
+•⁠  ⁠💼 Open for *Full Stack Web Developer internships*  
 •⁠  ⁠👯 Love collaborating on *open-source and innovative tech projects*  
 •⁠  ⁠⚡ Fun fact: I believe learning consistency > speed  
 •⁠  ⁠🎯 Goal: To become an *impactful developer* creating solutions that matter  
