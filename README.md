@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" /> 
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -16,7 +15,6 @@
 •⁠  ⁠⚡ Fun fact: I believe learning consistency > speed  
 •⁠  ⁠🎯 Goal: To become an *impactful developer* creating solutions that matter  
 
----
 
 ## 💻 Tech Stack
 
@@ -25,12 +23,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,c,vscode" />
 </p>
 
- 
----
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics-->
 
-<p align="center">
+<!--<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tanmaylagoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaylagoo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -41,9 +37,8 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmaylagoo&theme=tokyonight" />
-</p>
+</p>-->
 
----
 
 ## 🌐 Connect With Me
 
@@ -56,7 +51,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tanmaylagoo.tanmaylagoo" alt="visitor badge"/>
