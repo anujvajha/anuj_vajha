@@ -27,9 +27,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anujvajha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujvajha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anujvajha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujvajha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anujvajha&theme=tokyonight&hide_border=true" />
@@ -54,6 +55,3 @@
 
 
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anujvajha.anujvajha" alt="visitor badge"/>
-</p>
