@@ -45,19 +45,6 @@
 
 ---
 
-## 🧠 Featured Projects
-
-| 💡 Project | 🧰 Tech Stack | 🔗 Link |
-|-------------|----------------|---------|
-| *Netflix Data Analysis* | Tableau | [View Repo](https://github.com/tanmaylagoo/Netflix-Data-Analysis-Tableau) |
-| *Airbnb 2016 Analytics* | Tableau | [View Repo](https://github.com/tanmaylagoo/AirBNB-2016-Data-Analytics-Tableau-Project) |
-| *Apocalypse Food Preparation Dashboard* | Power BI | [View Repo](https://github.com/tanmaylagoo/Power-BI-Data-Analytics-Project) |
-| *Excel Bike Sales Analysis* | Excel | [View Repo](https://github.com/tanmaylagoo/Excel-Data-Analytics-Project) |
-| *Login Page UI* | HTML, CSS | [View Repo](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) |
-| *Java and OOPM Practice* | Java, OOP | [View Repo](https://github.com/tanmaylagoo/Java-Student-Management-System) |
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
