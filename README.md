@@ -33,10 +33,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anujvajha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujvajha&theme=tokyonight" />
 </p>
 
